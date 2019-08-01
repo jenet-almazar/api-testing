@@ -11,7 +11,8 @@ public class catalogueTest {
     String name = "Carbon credits";
 
     @Test
-    public void checkName ()
+    public void checkNameListPromotions ()
+ ()
     {
         given().
         when().
