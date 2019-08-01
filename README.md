@@ -11,10 +11,11 @@ https://www.jetbrains.com/idea/download/#section=windows
 https://git-scm.com/downloads
 
 # Importing Project from Github
-1. Check the instruction here https://drive.google.com/open?id=1Xjh7oYgypU0LYhlTcNm1roNPFzpgPld1
+1. Check the instruction here 
+
 
 # Running the test
-1. Check the instruction here https://drive.google.com/open?id=12CKDrtUr7MOoNV5kbufIUJcYw745_mON
+1. Check the instruction here 
 
 
 
