@@ -12,7 +12,6 @@ public class catalogueTest {
 
     @Test
     public void checkNameListPromotions ()
- ()
     {
         given().
         when().
